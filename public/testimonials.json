@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Pierre Martin",
+        "job": "Designer",
+        "title": "J'adore cette application !",
+        "message": "J'ai découvert Boris grâce à mes collègues. L'application est simple à utiliser et les notifs en direct sont un vrai plus. Et ce hamster il est trop mignon !",
+        "icon": "male-1.png"
+    },
+    {
+        "name": "Aziza Maloof",
+        "job": "Etudiante",
+        "title": "Plus de retard !",
+        "message": "Je suis tout le temps en retard en cours ! Mais grâce à Boris et sa communauté ultra réactive j'arrive à esquiver les problèmes et limiter mes retards.",
+        "icon": "female-1.png"
+    },
+    {
+        "name": "Viollette Brisebois",
+        "job": "Cadre",
+        "title": "Oh! C'est trop bien",
+        "message": "Je suis lassée des problèmes de métro et de RER, grâce à Boris j'arrive à limiter les prises de tête",
+        "icon": "female-3.png"
+    }
+]
