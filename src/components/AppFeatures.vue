@@ -46,7 +46,7 @@
                         </div>
                     </div>
                     <div class="xs:hidden lg:block md:flex-2 lg:flex-2">
-                        <img src="./../assets/iphone.png" alt="iphone image" class="h-iphone">
+                        <img src="./../assets/features.jpg" style="border-radius: 10px" alt="iphone image" class="h-iphone">
                     </div>
                     <div class="flex-1">
                         <div class="px-12 py-12 m-4 text-center">

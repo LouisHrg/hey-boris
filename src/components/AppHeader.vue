@@ -4,7 +4,7 @@
             <navigation-menu></navigation-menu>
             <div class="pt-16 lg:flex items-center">
                 <div class="lg:w-1/2 text-center">
-                    <img src="./../assets/iphones.png" alt="iphones image" class="xl:h-iphones lg:h-100 md:h-100 sm:h-100 xs:h-100">
+                    <img src="./../assets/homeIphone.jpg" style="border-radius: 10px" alt="iphones image" class="xl:h-iphones lg:h-100 md:h-100 sm:h-100 xs:h-100">
                 </div>
 
                 <div class="w-auto xs:m-0 md:m-1 md:pl-24 md:pr-24">
